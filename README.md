@@ -73,7 +73,7 @@ The values in Terraform and Cloud Build (project IDs, repository names, regions)
 
 High-level diagram (conceptual pipeline and GCP components):
 
-![Architecture diagram](https://github.com/user-attachments/assets/d2f57097-e20c-4309-89f9-2e010a00a38c)
+![Automated GCP Terraform App — project overview](assets/gcp-app-architecture.png)
 
 **Flow in short**
 
